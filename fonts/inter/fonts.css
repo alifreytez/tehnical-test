@@ -1,0 +1,7 @@
+/* Inter font family */
+
+@font-face {
+	font-family: "Inter";
+	src: url("./Regular.woff");
+	font-weight: 400;
+}
